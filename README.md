@@ -10,12 +10,12 @@
 <br>
 <div>
 <ul>
-  <li>- 🔭 Actualmente estudio en la <a href="https://www.utsjr.edu.mx/">UTSJR</a> </li>
-  <li>- 🌱 Por el momento estudio la<a href="https://www.utsjr.edu.mx/programaAcademico.php?carrera=TI.jpg"> Ingieneria en software </a></li>
+  <li>- 🔭 Actualmente estudio en la <a href="https://www.utsjr.edu.mx/" target='_blank'>UTSJR</a> </li>
+  <li>- 🌱 Por el momento estudio la<a href="https://www.utsjr.edu.mx/programaAcademico.php?carrera=TI.jpg" target='_blank'> Ingieneria en software </a></li>
   <li>- 👯 Estoy buscando colaborar en proyectos en c++ </li>
   <li>- 🤔 Busco ayuda en el front end y back end </li>
   <li>- 💬 Me puedes preguntar acerca sistemas operativos, redes de cisco y c++ </li>
-  <li>- 📫 Donde encontrarme : Instagram - <a href="https://www.instagram.com/bougdz/">@bougdz</a>
+  <li>- 📫 Donde encontrarme : Instagram - <a href="https://www.instagram.com/bougdz/" target='_blank'>@bougdz</a>
  <!--lo de arriba se hace en https://stackedit.io/app# --></li>
   <li>- 😄 Pronombre: El </li>
   <li>- ⚡ Aspecto gracioso: Paresco serio pero me encanta el anime 😅 </li>
