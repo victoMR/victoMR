@@ -4,7 +4,7 @@
 <div>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Me llamo Victor acutalmente estudio en la UTSJR Ingieneria en software y curso el 3 cuatrimestre,
-    me gusta mucho el gimnacio y programar son los mas grandes amores de mi vida.
+    me gusta mucho el gym y programar son los mas grandes amores de mi vida.
     Soy novato en el mundo de la programación asi que agreadeceria la ayuda.
 </div>
 <br>
