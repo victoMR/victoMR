@@ -18,26 +18,51 @@
   <li>- 🤔 Busco ayuda en el front end y back end </li>
   <li>- 💬 Me puedes preguntar acerca sistemas operativos, redes de cisco y c++ </li>
   <li>- 📫 Donde encontrarme : Instagram - <a href="https://www.instagram.com/bougdz/" target='_blank'>@bougdz</a>
- <!--lo de arriba se hace en https://stackedit.io/app# --></li>
   <li>- 😄 Pronombre: El </li>
   <li>- ⚡ Aspecto gracioso: Paresco serio pero me encanta el anime 😅 </li>
       <td>
       <a href="https://app.daily.dev/bougdx"><img src="https://api.daily.dev/devcards/21b8a1971dc4494d81bf0c3be187f26b.png?r=ct8" width="300" alt="Victor R's Dev Card"/></a>
     </td>
+    </td>
   </tr>
-  </table>
-  </div> 
-  <div>
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  </div>
+</table>
+</div> 
+<div style="text-align: center; margin: 0 auto;">
+    <a href="mailto:manuelrm.ti22@utsjr.edu.mx" target="_blank">
+        <img style="" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
+    </a>
+</div>
 <br>
+<!-- Statistics -->
+
+<h2 style="color: #44AEFB">📊 Mis estadisticas por el momento </h2>
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victoMR&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![B0UGDX GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoMR&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=victoMR&count_private=true&theme=algolia&border_radius=20)
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoMR&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
+</div>
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Lo que se y lo que uso:</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
 <br>   
+
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
@@ -52,6 +77,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
+  
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a> 
@@ -64,39 +90,18 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <a align="center" href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
 </div>
 <br>
 <br>
 
-<!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Mis estadisticas por el momento </h2>
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![B0UGDX GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoMR&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=victoMR&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoMR&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
 <!--  End Stats Cards -->
 <!-- Begin Footer -->
 
-<div>
-    <a href="mailto:manuelrm.ti22@utsjr.edu.mx" target="_blank">
-        <img style="margin:10px 10px 10px 10px;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
+
+
+
 <!-- End Footer -->
