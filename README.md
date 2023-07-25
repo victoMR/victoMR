@@ -9,7 +9,9 @@
 </div>
 <br>
 <div>
-<ul>
+<table valing="center">
+  <tr>
+    <td valign="center">
   <li>- 🔭 Actualmente estudio en la <a href="https://www.utsjr.edu.mx/" target='_blank'>UTSJR</a> </li>
   <li>- 🌱 Por el momento estudio la<a href="https://www.utsjr.edu.mx/programaAcademico.php?carrera=TI.jpg" target='_blank'> Ingieneria en software </a></li>
   <li>- 👯 Estoy buscando colaborar en proyectos en c++ </li>
@@ -19,14 +21,15 @@
  <!--lo de arriba se hace en https://stackedit.io/app# --></li>
   <li>- 😄 Pronombre: El </li>
   <li>- ⚡ Aspecto gracioso: Paresco serio pero me encanta el anime 😅 </li>
+      <td>
+      <a href="https://app.daily.dev/bougdx"><img src="https://api.daily.dev/devcards/21b8a1971dc4494d81bf0c3be187f26b.png?r=ct8" width="300" alt="Victor R's Dev Card"/></a>
+    </td>
+  </tr>
+  </table>
+  </div> 
+  <div>
+      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
-</ul>
-<br>
-<div align="center">
-
-[Mandame un mail 🫡](mailto:manuelrm.ti22@utsjr.edu.mx)
-</div>
-</p>    
 <br>
 <!-- Languages and Tools -->
 
