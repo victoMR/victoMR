@@ -4,13 +4,13 @@
 
 ---
 
-Bienvenido a mi perfil de GitHub. Mi nombre es Victor y soy estudiante de Ingeniería en Software en la [UTSJR](https://www.utsjr.edu.mx/), actualmente en mi 3er cuatrimestre. Estoy buscando oportunidades para crecer en el mundo del desarrollo, colaborar en proyectos interesantes y aprender de otros desarrolladores.
+Bienvenido a mi perfil de GitHub. Mi nombre es Victor y soy estudiante de Ingeniería en Software en la [UTSJR](https://www.utsjr.edu.mx/), actualmente en mi 4rto cuatrimestre. Estoy buscando oportunidades para crecer en el mundo del desarrollo, colaborar en proyectos interesantes y aprender de otros desarrolladores.
 
 ---
 
 ### 📘 Resumen Profesional
 
-Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en una fase temprana de mi carrera, estoy ansioso por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, me encanta el gimnasio y tengo un profundo interés en los sistemas operativos y las redes de Cisco. Siempre estoy dispuesto a aprender de otros y a ayudar en lo que pueda.
+Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en una fase temprana de mi carrera, estoy ansioso por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, me encanta el gimnasio y tengo un profundo interés en los sistemas operativos , las redes de Cisco y la programacion . Siempre estoy dispuesto a aprender de otros y a ayudar en lo que pueda.
 
 ---
 
@@ -54,8 +54,8 @@ Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en
 ### 🌟 Habilidades
 
 - **JavaScript**: ⭐⭐
-- **HTML**: ⭐⭐⭐⭐⭐
--  **CSS**: ⭐⭐⭐⭐
+- **HTML**: ⭐⭐⭐⭐
+-  **CSS**: ⭐⭐⭐
 - **C++**: ⭐⭐
 - **NODE.JS**: ⭐⭐
   
