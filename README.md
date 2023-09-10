@@ -1,8 +1,5 @@
 # 👨‍💻 Victor Rangel - Desarrollador de Software
 
-![github_cover_banner](https://giphy.com/embed/axnFGXT6MzvgY.gif)
-
----
 
 Bienvenido a mi perfil de GitHub. Mi nombre es Victor y soy estudiante de Ingeniería en Software en la [UTSJR](https://www.utsjr.edu.mx/), actualmente en mi 4rto cuatrimestre. Estoy buscando oportunidades para crecer en el mundo del desarrollo, colaborar en proyectos interesantes y aprender de otros desarrolladores.
 
