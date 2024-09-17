@@ -1,7 +1,7 @@
 # 👨‍💻 Victor Rangel - Desarrollador de Software
 
 
-Bienvenido a mi perfil de GitHub. Mi nombre es Victor y soy estudiante de Ingeniería en Software en la [UTSJR](https://www.utsjr.edu.mx/), actualmente en mi 4rto cuatrimestre. Estoy buscando oportunidades para crecer en el mundo del desarrollo, colaborar en proyectos interesantes y aprender de otros desarrolladores.
+Bienvenido a mi perfil de GitHub. Mi nombre es Victor y soy estudiante de Ingeniería en Software en la [UTEQ](https://www.uteq.edu.mx/), actualmente en mi 7tmo cuatrimestre. Estoy buscando oportunidades para crecer en el mundo del desarrollo, colaborar en proyectos interesantes y aprender de otros desarrolladores.
 
 ---
 
@@ -17,10 +17,9 @@ Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en
   <tr>
     <td valign="top">
 
-- 📚 Estudiante de [Ingeniería en Software](https://www.utsjr.edu.mx/programaAcademico.php?carrera=TI.jpg) en la [UTSJR](https://www.utsjr.edu.mx/)
-- 💼 Busco colaborar en proyectos de C++ y aprender más sobre Frontend y Backend.
-- 💡 Puedes preguntarme sobre Sistemas Operativos, Redes de Cisco y C++.
-- 📫 Encuéntrame en Instagram: [@bougdz](https://www.instagram.com/bougdz/)
+- 📚 Estudiante de Ingeniería en Software en la [UTEQ](https://www.uteq.edu.mx/)
+- 💼 Busco colaborar en proyectos de Python y aprender más sobre Frontend y Backend.
+- 💡 Puedes preguntarme sobre Sistemas Operativos, Redes de Cisco y C++, Python, React y una que otra cosa de mas , me alegra ayudar 
 - ⚡ Dato curioso: Puedo parecer serio, pero soy un gran fan del anime.
 
     </td>
@@ -42,21 +41,19 @@ Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en
 
 ### 📚 Educación
 
-- **Ingeniería en Software** en la [UTSJR](https://www.utsjr.edu.mx/)
-- **Curso o Certificación**: Descripción breve.
-... (y así sucesivamente)
-
+- **TSU EN DESARROLO SE SOFTWARE MULTIPLATAFORMA** en la [UTSJR](https://www.utsjr.edu.mx/) COMPLETADO
+- **Ingeniería en Software** en la [UTEQ](https://www.uteq.edu.mx/) EN CURSO
 ---
 
 ### 🌟 Habilidades
 
-- **JavaScript**: ⭐⭐
+- **JavaScript**: ⭐⭐⭐
 - **HTML**: ⭐⭐⭐⭐
 -  **CSS**: ⭐⭐⭐
 - **C++**: ⭐⭐
 - **NODE.JS**: ⭐⭐
-  
-
+- **PYTHON**: ⭐⭐⭐
+- **REACT** :⭐⭐
 <!-----
 
 ### 🗣️ Testimonios
@@ -134,7 +131,7 @@ Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en
 Si estás interesado en colaborar, trabajar juntos o simplemente charlar sobre tecnología, ¡estaré encantado de escuchar de ti!
 
 <div align="center">
-    <a href="mailto:manuelrm.ti22@utsjr.edu.mx" style="margin-right: 5px;">
+    <a href="mailto:vmrmtoweb@gmail.com" style="margin-right: 5px;">
         <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
     </a>
     <a href="https://www.instagram.com/bougdz/" target='_blank'>
