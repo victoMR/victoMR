@@ -134,8 +134,5 @@ Si estás interesado en colaborar, trabajar juntos o simplemente charlar sobre t
     <a href="mailto:vmrmtoweb@gmail.com" style="margin-right: 5px;">
         <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
     </a>
-    <a href="https://www.instagram.com/bougdz/" target='_blank'>
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram" width="50px" />
-    </a>
 </div>
 
