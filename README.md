@@ -40,17 +40,6 @@ Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en
 - **Ingeniería en Software** en la [UTEQ](https://www.uteq.edu.mx/) EN CURSO
 ---
 
-### 🌟 Habilidades
-
-- **JavaScript**: ⭐⭐⭐
-- **HTML**: ⭐⭐⭐⭐
--  **CSS**: ⭐⭐⭐
-- **C++**: ⭐⭐
-- **NODE.JS**: ⭐⭐
-- **PYTHON**: ⭐⭐⭐
-- **REACT** :⭐⭐
-<!-----
-
 ### 🗣️ Testimonios
 
 > "Comentario sobre tu trabajo o colaboración." 
