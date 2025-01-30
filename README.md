@@ -40,14 +40,6 @@ Soy un apasionado de la tecnología y la programación. Aunque todavía estoy en
 - **Ingeniería en Software** en la [UTEQ](https://www.uteq.edu.mx/) EN CURSO
 ---
 
-### 🗣️ Testimonios
-
-> "Comentario sobre tu trabajo o colaboración." 
-> 
-> **Nombre de la persona**
--->
----
-
 ### 📊 Estadísticas
 
 <table width="100%">
