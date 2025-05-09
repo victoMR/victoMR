@@ -1,7 +1,7 @@
 # 👨‍💻 Victor Rangel - Desarrollador de Software
 
 
-Bienvenido a mi perfil de GitHub. Mi nombre es Victor y soy estudiante de Ingeniería en Software en la [UTEQ](https://www.uteq.edu.mx/), actualmente en mi octavo cuatrimestre. Estoy buscando oportunidades para crecer en el mundo del desarrollo, colaborar en proyectos interesantes y aprender de otros desarrolladores.
+Bienvenido a mi perfil de GitHub. Mi nombre es Victor y soy estudiante de Ingeniería en Software en la [UTEQ](https://www.uteq.edu.mx/), actualmente en mi noveno cuatrimestre.
 
 ---
 
