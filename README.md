@@ -1,78 +1,84 @@
-# 🚀 Victor Rangel — Software Engineer & Automation Specialist
+# 🚀 Víctor Rangel — Software Engineer | DevOps & Scalable Systems Architect
 
-Welcome to my GitHub profile! I'm **Victor Manuel Rangel Mejia**, a final-year Software Engineering student at [UTEQ](https://www.uteq.edu.mx/). My core focus is on building robust solutions that automate processes and deliver strategic value across organizations.
-
----
-
-## 💡 Key Professional Profile
-
-I offer a hybrid skill set, combining robust **Enterprise Automation** capabilities with a solid foundation in **Full-Stack Development** and **DevOps** principles. As I approach graduation, I am actively seeking roles where I can leverage my proficiency in the Microsoft stack (Power BI, Power Automate) and my engineering skills (Python, Docker, C++).
-
-| ✅ **Core Strengths** | ⚙️ **Preferred Tech Stack** |
-|:----------------------|:---------------------------|
-| **Microsoft Power Platform** & SharePoint | **Python** (Scripts, AI/ML) |
-| Process Automation & Efficiency Design | **Docker** & Linux |
-| Full-Stack Development (React/Node) | SQL Server & PostgreSQL |
-| High Academic Achievement (9.5 GPA) | Power BI & Power Automate |
+Final-year Software Engineering student (graduating in **3 months**) with hands-on experience architecting and maintaining production infrastructure for real business impact. Passionate about building robust, scalable systems that combine **DevOps**, **microservices**, **real-time AI** and **cloud-native** solutions.
 
 ---
 
-## 🛠️ Key Projects (Engineering & Problem-Solving)
+## 💼 Professional Experience
 
-These projects highlight my strongest work and ability to deliver production-ready solutions using modern tech stacks:
+### **Systems & Infrastructure Specialist (Technical Lead)** — Agencia Domus  
+**Ago 2025 – Present**
 
-| Project | Description | 🧠 Technologies / Areas |
-|:--------|:-------------|:----------------------|
-| **Project‑FaceRecon** | Scalable access control system using **Facial Recognition**. | **Python**, OpenCV, Arduino, Computer Vision |
-| **TestFlow** | Desktop tool for complex data extraction and **OCR Automation**. | **Python**, Data Processing |
-| **DataMigrations** | GUI tool automating data migration from CSV files to **PostgreSQL** / **SQL Server**. | Python, GUI Frameworks |
-| **LoboEat** | Web application designed for streamlined campus food ordering. | **React**, **Node.js**/Express, REST APIs |
-| **[Explore All Repos]** | *See backend services, automation scripts, and full-stack implementations.* | Git, CI/CD Principles |
+- Architected and maintain **production infrastructure** for **20+ microservices** (Node.js + Python) using **Docker**, **PM2** and **Nginx** (reverse proxy, load balancing, SSL, intelligent routing).
+- Designed and deployed a **complete Google-Drive-style platform** (auth, RBAC, file storage, media, links and sharing) — fully containerized and running in production.
+- Built a **live video conferencing platform** with **LiveKit** + **Whisper AI** transcription and end-to-end encryption.
+- Developed an **automated purchasing SaaS platform** with **Stripe** subscriptions, webhooks and automated lead delivery for *Id Magazine* → generated significant revenue impact and **zero production failures** since launch.
+- Implemented a **RAG-based generative AI system** for intelligent internal document retrieval using vector databases.
+- Automated maintenance tasks with Python → **40% reduction** in manual work.
 
----
-
-## 💻 Technical Skill
-
-Structured by domain for quick recruiter scanning and ATS compatibility:
-
-### 📊 Automation & Microsoft Ecosystem
-* **Platforms:** **Microsoft Power Automate** (Flow Design), **Power BI** (Data Visualization, Dashboards), **SharePoint Online** (Administration).
-* **Databases:** **SQL Server**, PostgreSQL, MongoDB, DynamoDB.
-
-### ⚙️ Development & Infrastructure
-* **Languages:** **Python** (Primary), JavaScript / TypeScript, React, Node.js, PHP, C++, Go (Learning).
-* **DevOps & Cloud:** **Docker** (Containerization), Linux (System Admin), Git, AWS (Basic), GCP (Basic).
-* **IoT & Systems:** Arduino, ESP32, Embedded Systems, Cisco Networking.
+**Previous roles:** Polimata AI, Clever Cloud, Pooling Mx (30% efficiency gain with automation).
 
 ---
 
-## 📚 Education & Certifications
+## 🛠️ Key Production Systems Built
 
-* **B.Eng. in Software Development & Management** — Technological University of Querétaro (**UTEQ**) *(Final Year)*
-    * Expected Graduation: 2026.
-* **Associate Degree (TSU) in IT / Software Multiplatform** — UTSJR *(Completed)*
-    * **GPA:** **9.5** (High Distinction).
-* **Certifications:** **Cisco CCNA**, Intro to Data Science, IoT Fundamentals.
+| System | Impact | Stack |
+|--------|--------|-------|
+| **Dcontrol Drive Platform** | Full-featured file management with RBAC and multi-domain support | Node.js, React, PostgreSQL, Redis, Docker, Nginx |
+| **LiveKit Meet + AI** | Real-time video + automatic transcription | LiveKit, Whisper, Node.js, Docker |
+| **Stripe Automated Sales** | Subscriptions + lead delivery (revenue from day 1) | Stripe, Node.js, PM2 |
+| **RAG Document Intelligence** | Internal AI search system | Python, LangChain, Vector DB |
+| **Multi-Microservice Infra** | 20+ services, zero downtime | Docker, PM2, Nginx, Linux |
 
----
-
-## 📊 GitHub Engagement
-
-My contribution history demonstrates a dedicated and continuous commitment to coding and development projects:
-
-| Activity Graph | Core Metrics |
-|:---------------|:-------------|
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victoMR&theme=github-compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoMR&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) |
+*(Repos privados de la empresa por política — happy to walk through architecture in interviews)*
 
 ---
 
-## 🤝 Connect With Me
+## 💻 Technical Skills
 
-I am actively seeking internship opportunities and collaborations in Software Engineering, Automation, and Data Analytics.
+**Infrastructure & DevOps**  
+Docker • PM2 • Nginx • Linux (Ubuntu/Arch) • DNS • Cloudflare • Load Balancing • High Availability
 
-🔗 **LinkedIn:** [victorrangelm](https://www.linkedin.com/in/victorrangelm)
-📧 **Email:** [vmrmtoweb@gmail.com](mailto:vmrmtoweb@gmail.com)
+**Languages & Frameworks**  
+Python • Node.js • React • TypeScript • PHP • Go (basic) • C++
+
+**AI & Real-Time**  
+LiveKit • Whisper • RAG (LangChain) • OpenCV • Computer Vision
+
+**Databases & Others**  
+PostgreSQL • MongoDB • Redis • SQL Server • Stripe (webhooks & subscriptions)
+
+**Other**  
+Git • CI/CD principles • Power Automate (secondary)
 
 ---
 
-> ✨ Thank you for visiting! Let's build something impactful together.
+## 📚 Education
+
+- **B.Eng. Software Development & Management** — UTEQ (2024 – 2026)  
+  Expected graduation: **June 2026** | Focus: Software Architecture & Cloud Computing
+
+- **Associate Degree (TSU) in Information Technologies** — UTSJR (2022 – 2024)  
+  **GPA: 9.5/10** (Academic Distinction)
+
+**Certifications:** Cisco CCNA, Introduction to Data Science, IoT Fundamentals  
+**English:** B2 Upper-Intermediate
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victoMR&theme=github-compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoMR&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+---
+
+## 🤝 Let's Connect
+
+Actively seeking **Software Engineer / DevOps / Platform Engineer** roles (new-grad / early-career) in companies that value real production experience.
+
+🔗 **LinkedIn:** [victorrangelm](https://www.linkedin.com/in/victorrangelm)  
+📧 **Email:** vmrmtoweb@gmail.com  
+📍 Querétaro, México (open to remote / CDMX / relocation)
+
+> " So,i build systems that don't break — and I ship them to production."
