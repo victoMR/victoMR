@@ -1,6 +1,6 @@
 # 🚀 Víctor Rangel — Software Engineer | DevOps & Scalable Systems Architect
 
-Final-year Software Engineering student (graduating in **3 months**) with hands-on experience architecting and maintaining production infrastructure for real business impact. Passionate about building robust, scalable systems that combine **DevOps**, **microservices**, **real-time AI** and **cloud-native** solutions.
+Final-year Software Engineering student (graduating in **1 month**) with hands-on experience architecting and maintaining production infrastructure for real business impact. Passionate about building robust, scalable systems that combine **DevOps**, **microservices**, **real-time AI** and **cloud-native** solutions.
 
 ---
 
@@ -30,7 +30,7 @@ Final-year Software Engineering student (graduating in **3 months**) with hands-
 | **RAG Document Intelligence** | Internal AI search system | Python, LangChain, Vector DB |
 | **Multi-Microservice Infra** | 20+ services, zero downtime | Docker, PM2, Nginx, Linux |
 
-*(Repos privados de la empresa por política — happy to walk through architecture in interviews)*
+*(Are in privete repos of the agency — happy to walk through architecture in interviews)*
 
 ---
 
